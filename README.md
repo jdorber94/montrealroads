@@ -8,5 +8,8 @@ the roads in your city likely representing each road as a polygon.
 The script Cars_v_Bikes_Data_Gather can then be ran to calculate all data needed to create your own data to be plotted in cesium. This is a Jupyter Notebook containing all the functions necessary to produce the data.
 You must enter your own google maps API key. Be careful to be mindful of the amount of API are using because it will cost you money. Every 1000 times call_gmaps is run it costs $5.
 
+A note about the calulation is that a 5 minute estimated time to find parking and walk to a destination is included for downtown. As well the time Thursday at 4 PM is used as it is when the 
+majority of trips take place
+
 
 
