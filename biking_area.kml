@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>biking_area</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-73.6048397913401,45.4798284776161,0 -73.6209455803257,45.5283780301032,0 -73.6048397913401,45.5380879406006,0 -73.5726282133689,45.5380879406006,0 -73.5565224243833,45.5186681196058,0 -73.5565224243833,45.4992482986109,0 -73.5887340023545,45.4798284776161,0 -73.6048397913401,45.4798284776161,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
